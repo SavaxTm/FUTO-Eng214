@@ -1,0 +1,1 @@
+This repo will be for my 200L course on C++; i will be pushing all homeworks and assignments to this repo. Look out for errors in my work and suggest a correction. I will start my journey into C++ in this wise.
